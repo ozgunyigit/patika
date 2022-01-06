@@ -1,0 +1,14 @@
+<head>
+  <meta charset="UTF-8" />
+</head>
+<body>
+    <h1>Özgün Yiğit</h1>
+    <h2>Hakkımda</h2>
+    <p>HTML öğreniyorum.</p>
+    <h3>Sevdiğim Şeyler</h3>
+    <ul>
+        <li>Erimiş dondurma</li>
+        <li>Kediler</li>
+    </ul>
+    <!-- ilk web sayfamı oluşturdum. -->
+</body>
