@@ -1,0 +1,40 @@
+<head>
+    <meta charset="UTF-8" />
+</head>
+<body>
+    <h1>Özgün Yiğit</h1>
+    <h2>Hakkımda</h2>
+    <p>HTML öğreniyorum.</p>
+    <h3>Sevdiğim Şeyler</h3>
+    <ul>
+        <li>Erimiş dondurma</li>
+        <li>Kediler</li>
+    </ul>
+    <h3>İlgi Alanlarım</h3>
+    <ol type=A>
+        <li><strong>Film</strong> 
+            <ul>
+                <li><a href="https://www.imdb.com/">film1</a></li>
+                <li>film2</li>
+            </ul>
+        </li>
+        <li><strong>Kitap</strong> 
+            <ul>
+                <li><a href="https://www.goodreads.com/">kitap1</a></li>
+                <li>kitap2</li>
+            </ul>
+        </li>
+        <li><strong>Dizi</strong> 
+            <ul>
+                <li>dizi1</li>
+                <li>dizi2</li>
+            </ul>
+        </li>
+    </ol>
+    <!-- ilk web sayfamı oluşturdum. -->
+    <div>
+        <img src="planetearth.png" alt="imdb deki en iyi tv show">
+        <br>
+        <span>imdb deki en iyi tv show</span>
+    </div>
+</body>
